@@ -2,17 +2,17 @@
   "Meta Data": {
     "1. Information": "Monthly Adjusted Prices and Volumes",
     "2. Symbol": "AAPL",
-    "3. Last Refreshed": "2025-05-22",
+    "3. Last Refreshed": "2025-05-23",
     "4. Time Zone": "US/Eastern"
   },
   "Monthly Adjusted Time Series": {
-    "2025-05-22": {
+    "2025-05-23": {
       "1. open": "209.0800",
       "2. high": "214.5600",
       "3. low": "193.2500",
-      "4. close": "201.3600",
-      "5. adjusted close": "201.3600",
-      "6. volume": "893530605",
+      "4. close": "195.2700",
+      "5. adjusted close": "195.2700",
+      "6. volume": "971963523",
       "7. dividend amount": "0.2600"
     },
     "2025-04-30": {
