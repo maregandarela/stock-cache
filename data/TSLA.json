@@ -2,17 +2,17 @@
   "Meta Data": {
     "1. Information": "Monthly Adjusted Prices and Volumes",
     "2. Symbol": "TSLA",
-    "3. Last Refreshed": "2025-05-23",
+    "3. Last Refreshed": "2025-05-27",
     "4. Time Zone": "US/Eastern"
   },
   "Monthly Adjusted Time Series": {
-    "2025-05-23": {
+    "2025-05-27": {
       "1. open": "280.0100",
-      "2. high": "354.9899",
+      "2. high": "363.7900",
       "3. low": "271.0000",
-      "4. close": "339.3400",
-      "5. adjusted close": "339.3400",
-      "6. volume": "1772561261",
+      "4. close": "362.8900",
+      "5. adjusted close": "362.8900",
+      "6. volume": "1892707675",
       "7. dividend amount": "0.0000"
     },
     "2025-04-30": {
