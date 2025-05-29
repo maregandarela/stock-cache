@@ -2,17 +2,17 @@
   "Meta Data": {
     "1. Information": "Monthly Adjusted Prices and Volumes",
     "2. Symbol": "GOOGL",
-    "3. Last Refreshed": "2025-05-27",
+    "3. Last Refreshed": "2025-05-28",
     "4. Time Zone": "US/Eastern"
   },
   "Monthly Adjusted Time Series": {
-    "2025-05-27": {
+    "2025-05-28": {
       "1. open": "160.4500",
       "2. high": "176.7700",
       "3. low": "147.8400",
-      "4. close": "172.9000",
-      "5. adjusted close": "172.9000",
-      "6. volume": "826010447",
+      "4. close": "172.3600",
+      "5. adjusted close": "172.3600",
+      "6. volume": "860794444",
       "7. dividend amount": "0.0000"
     },
     "2025-04-30": {

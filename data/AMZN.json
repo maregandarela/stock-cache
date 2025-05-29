@@ -2,17 +2,17 @@
   "Meta Data": {
     "1. Information": "Monthly Adjusted Prices and Volumes",
     "2. Symbol": "AMZN",
-    "3. Last Refreshed": "2025-05-27",
+    "3. Last Refreshed": "2025-05-28",
     "4. Time Zone": "US/Eastern"
   },
   "Monthly Adjusted Time Series": {
-    "2025-05-27": {
+    "2025-05-28": {
       "1. open": "190.6300",
       "2. high": "214.8400",
       "3. low": "183.8500",
-      "4. close": "206.0200",
-      "5. adjusted close": "206.0200",
-      "6. volume": "822437888",
+      "4. close": "204.7200",
+      "5. adjusted close": "204.7200",
+      "6. volume": "850987641",
       "7. dividend amount": "0.0000"
     },
     "2025-04-30": {
