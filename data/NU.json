@@ -2,17 +2,17 @@
   "Meta Data": {
     "1. Information": "Monthly Adjusted Prices and Volumes",
     "2. Symbol": "NU",
-    "3. Last Refreshed": "2025-05-28",
+    "3. Last Refreshed": "2025-05-29",
     "4. Time Zone": "US/Eastern"
   },
   "Monthly Adjusted Time Series": {
-    "2025-05-28": {
+    "2025-05-29": {
       "1. open": "12.5000",
       "2. high": "13.7300",
       "3. low": "11.7200",
-      "4. close": "12.2000",
-      "5. adjusted close": "12.2000",
-      "6. volume": "1067600091",
+      "4. close": "11.9900",
+      "5. adjusted close": "11.9900",
+      "6. volume": "1129830873",
       "7. dividend amount": "0.0000"
     },
     "2025-04-30": {
